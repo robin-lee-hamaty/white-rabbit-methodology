@@ -1,45 +1,20 @@
 cff-version: 1.2.0
-message: "If you use or reference the White Rabbit Methodology, please cite the published First Edition using the DOI below."
+message: "Please cite the published First Edition of The White Rabbit Methodology using the citation below."
 
-title: "The White Rabbit Methodology: The Ethical Hacker's Operator's Handbook"
-
-type: book
-
+title: "White Rabbit Methodology"
 authors:
   - family-names: "Hamaty"
     given-names: "Robin Lee"
 
-version: "1.0"
+url: "https://github.com/robin-lee-hamaty/white-rabbit-methodology"
 
-date-released: "2026-08-23"
-
-doi: "10.5281/zenodo.22068233"
-
-url: "https://doi.org/10.5281/zenodo.22068233"
-
-license: "CC-BY-NC-ND-4.0"
-
-abstract: >-
-  The White Rabbit Methodology is an independent cybersecurity practitioner
-  methodology built around the continuous operational cycle KNOW IT, BUILD IT,
-  BREAK IT, DETECT IT, FIX IT, and PROVE IT. It approaches offensive and
-  defensive security as complementary views of the same system and uses
-  MITRE ATT&CK as a foundational framework for connecting adversary behavior
-  with defensive visibility, detection, mitigation, remediation, and validation.
-
-keywords:
-  - "White Rabbit Methodology"
-  - "Cybersecurity"
-  - "Ethical Hacking"
-  - "Penetration Testing"
-  - "Red Teaming"
-  - "Blue Teaming"
-  - "Purple Teaming"
-  - "MITRE ATT&CK"
-  - "Threat Hunting"
-  - "Detection Engineering"
-  - "Digital Forensics and Incident Response"
-  - "AI Security"
-  - "Adversarial AI"
-  - "AI Red Teaming"
-  - "MITRE ATLAS"
+preferred-citation:
+  type: book
+  authors:
+    - family-names: "Hamaty"
+      given-names: "Robin Lee"
+  title: "The White Rabbit Methodology: The Ethical Hacker's Operator's Handbook"
+  year: 2026
+  edition: "1"
+  doi: "10.5281/zenodo.22068233"
+  url: "https://doi.org/10.5281/zenodo.22068233"
